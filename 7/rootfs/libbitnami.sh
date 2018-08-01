@@ -20,7 +20,6 @@ print_image_welcome_page() {
     log ""
     log "${BOLD}Welcome to the Bitnami ${BITNAMI_APP_NAME} container${RESET}"
     log "Subscribe to project updates by watching ${BOLD}${GITHUB_PAGE}${RESET}"
-    log "Submit issues and feature requests at ${BOLD}${GITHUB_PAGE}/issues${RESET}"
     log ""
 }
 
