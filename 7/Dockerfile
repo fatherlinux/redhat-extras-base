@@ -2,7 +2,7 @@ FROM registry.access.redhat.com/rhel7
 
 LABEL maintainer "Bitnami <containers@bitnami.com>"
 ENV IMAGE_OS=ol-7
-ENV BITNAMI_IMAGE_VERSION=7-r56
+ENV BITNAMI_IMAGE_VERSION=7-r57
 
 COPY rootfs /
 
