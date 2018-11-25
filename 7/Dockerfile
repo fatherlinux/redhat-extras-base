@@ -13,7 +13,7 @@ LABEL maintainer="Bitnami <containers@bitnami.com>" \
       architecture="x86_64"
 
 ENV IMAGE_OS=ol-7
-ENV BITNAMI_IMAGE_VERSION=7-r122
+ENV BITNAMI_IMAGE_VERSION=7-r123
 
 COPY rootfs /
 
